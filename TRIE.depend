@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1655216465 source:c:\users\hp\onedrive\desktop\c\trie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"trie.h"
+
+1655215978 c:\users\hp\onedrive\desktop\c\trie\trie.h
+	<stdbool.h>
+
+1655227752 source:c:\users\hp\onedrive\desktop\c\trie\trie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"trie.h"
+
